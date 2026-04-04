@@ -1,0 +1,64 @@
+Mission #12 Assignment IS 413 – Hilton Continue the Bookstore project from Mission #11.  Following the pattern in the videos, build in the ability for the user to filter by book categories (i.e. “Biography, “Self-Help”, etc.)  The page numbers should adjust based on the category selected. Add the ability for the user to add books to their shopping cart.  The cart should update the quantity, price, subtotal, and total for each book that is added.  The information should persist in the cart for the duration of the session as the user navigates around.  Include the functionality for the user to “Continue Shopping” and go back to the page where they left off when they added the item to their cart.  Add a cart summary to the main book list page. Arrange the website using the Bootstrap Grid.  In addition, do two things with Bootstrap that we have never done before in class.  (#notcoveredinthevideos)  With your submission link in Learning Suite, make sure to add a comment with which bootstrap attributes you used so that the TAs know what it is and where to find it.  (NOTE:  If you fail to add the comment, you will receive no credit for that criteria in the rubric.)  This is not meant to be a difficult requirement, so please do not make it more than it is.  I just want you to explore Bootstrap a little further and see what kind of features are available. Submit a pUbLiC link to the GitHub repository along with your comment about the Bootstrap attributes you added via Learning Suite. 
+
+
+Rubric:
+App Compiles and Runs
+Performance levels:	Score:
+Yes	10
+Program compiles and runs without any errors.
+No	0
+Program has errors or the page does not load correctly.
+App Allows User to Filter Books
+Performance levels:	Score:
+Yes	20
+The app gives the user the ability to filter books by category.
+Partial	10
+Category filtering is in place but does not work as expected.
+No	0
+The app is missing the ability to filter by category.
+Page Numbers Change with Filtering
+Performance levels:	Score:
+Yes	5
+The page numbers adjust with the filtering.
+No	0
+The page numbers do not adjust with the filtering.
+App Has Cart that Persists
+Performance levels:	Score:
+Yes	25
+The app has a cart that persists as the user navigates around the site.
+Partial	10
+Parts of the cart are in place, but it is not functioning correctly.
+No	0
+The app is missing the cart functionality.
+Cart Page
+Performance levels:	Score:
+Yes	10
+The app has a cart page that shows each line item with the quantity and subtotal, as well as a total.
+Partial	5
+The cart page does not update the quantity when the same item is added or the numbers are not working correctly.
+No	0
+App is missing a Cart page.
+Cart Summary on Home Page
+Performance levels:	Score:
+Yes	10
+The app has a functioning cart summary on the home page that has the price AND quantity.
+Partial	5
+The app has a cart summary, but it is not functioning correctly or is missing the quantity.
+No	0
+The app is missing a cart summary on the home page.
+Bootstrap
+Performance levels:	Score:
+Yes	10
+The app uses the Bootstrap Grid for layout and includes two new things from Bootstrap.
+Partial	5
+The app uses the Bootstrap Grid, but does not include two new things or vice-versa.
+No	0
+The app does not use the Bootstrap Grid and is missing the two new things from Bootstrap.
+Code is Clean
+Performance levels:	Score:
+Yes	10
+Code is readable, with appropriate naming and proper spacing and comments, and the organization of the files is good.
+Partial	0
+There are issues with readability or organization.
+No	0
+There are significant issues with readability or organization.

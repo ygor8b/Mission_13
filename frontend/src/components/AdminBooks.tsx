@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import type { Book } from '../types/Book';
 
-const API_URL = 'http://localhost:5134/api/books';
+const API_URL = 'https://ygorsantos-backend-waterproject-hedce5aadycqa3g4.eastus-01.azurewebsites.net/api/Books';
 
 const emptyForm = {
   title: '',
